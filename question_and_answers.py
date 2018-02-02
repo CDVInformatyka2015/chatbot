@@ -442,5 +442,17 @@ conversation = [
         "Jaki jest port protokołu POP3?",
         "110 lub 995(SSL)",
     ],
+    [
+        "Co to jest POP3?",
+        "Jest to protokół służący odczytywaniu poczty."
+    ],
+    [
+        "Co to jest IMAP?",
+        "Jest to protokół służący odczytywaniu poczty."
+    ],
+    [
+        "Co to jest SMTP?",
+        "Jest to protokół służący wysyłaniu poczty."
+    ]
 
 ]

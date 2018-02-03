@@ -19,13 +19,18 @@ chatbot = ChatBot(
 
 info = "Program obecnie jest w fazie uczenia się!\n" \
        "Zdobywa wiedzę z czasem, więc jego odpowiedzi mogą być conajmniej nieodpowiednie.\n" \
-       "Prosimy o wyrozumiałość lub kontakt z biurem obsługi klienta.\n"
+       "Prosimy o wyrozumiałość lub kontakt z biurem obsługi klienta.\n" \
+       "\nZadaj pytanie, a może Ci odpowiemy.\n"
+print(info)
+
 while True:
-    print(info)
     try:
-        chat = input("Chat > ")
-        response = chatbot.get_response(chat)
-        print("BOT > " + str(response))
+        chat = input("Chat > ")	
+        if chat != "":
+                response = chatbot.get_response(chat)
+                print("BOT > " + str(response))
+
     except(KeyboardInterrupt, EOFError, SystemExit):
         print('\nDziękujemy za skorzystanie z naszego BOTA!\n')
         break
+

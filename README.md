@@ -1,5 +1,5 @@
 # ChatBOT
-## Collegium Da Vinci
+### Metody sztucznej inteligencji | Collegium Da Vinci
 
 Simple chatbot/assistant for hosting company :)
 

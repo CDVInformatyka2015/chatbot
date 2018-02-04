@@ -7,5 +7,5 @@ Project for "Metody sztucznej inteligencji" at Collegium Da Vinci in Poznań
 ## Authors
 
 * [Paweł Otlewski](https://otlet.pl)
-* Gabriela Wrońska
-* Natalia Ośko
+* [Gabriela Wrońska](https://lisia-nora.pl)
+* [Natalia Ośko](https://google.com)

@@ -23,7 +23,14 @@ conversation = [
         "Co oznacza zielona kłódka przy adresie storny?",
         "Zielona kłódka na stronie oznacza, że jest ona zabezpieczona certyfikatem",
     ],
-
+    [
+        "Czy jest zielona kłódka?",
+        "Jest to informacja w przeglądarce o szyfrowanym połączeniu SSL",
+    ],
+    [
+        "Czy jak kupię SSL to moja strona będzie miała zieloną kłódeczkę?",
+        "Jak najbardziej. Podczas zakupu i instalacji certyfikatu, przeglądarki będą wyświetlać taką kłódeczkę :)",
+    ],
     [
         "Co oznacza zielona kłódka przy adresie strony?",
         "Jeśli na stronie, przy jej adresie wyświetla się zielona kłódka oznacza, że zainstalowany jest na niej certyfikat",

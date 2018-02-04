@@ -4,7 +4,7 @@ Simple chatbot/assistant for hosting company :)
 
 Project for "Metody sztucznej inteligencji" at Collegium Da Vinci in Poznań
 
-![Graf](graf.jpg?raw=true "Graf")
+![Graf](https://otlet.github.io/chatbot/graf.jpg "Graf")
 
 ## Authors
 

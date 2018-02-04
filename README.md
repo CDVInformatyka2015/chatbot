@@ -4,6 +4,7 @@
 Simple chatbot/assistant for hosting company :)
 
 ## Authors
-Paweł Otlewski
-Gabriela Wrońska
-Natalia Ośko
+
+* [Paweł Otlewski](https://otlet.pl)
+* Gabriela Wrońska
+* Natalia Ośko
